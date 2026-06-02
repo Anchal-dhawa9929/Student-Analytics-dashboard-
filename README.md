@@ -63,7 +63,7 @@ High-level overview across both academic sessions (2024-25 and 2025-26) with enr
 
 
 **Page 1**-Academic Performance(https://github.com/Anchal-dhawa9929/Student-Analytics-dashboard-/blob/main/student_db1.png)
-**Page 2**-Attendance Analytics() 
+**Page 2**-Attendance Analytics(https://github.com/Anchal-dhawa9929/Student-Analytics-dashboard-/blob/main/student_db2.png) 
 **Page 2**-All Session Overview() 
 
 
